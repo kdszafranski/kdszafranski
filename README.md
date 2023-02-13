@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+Many of my personal game project repos are private.. hope you understand. If you're interested in them, please email me!
 
 <!--
 **kdszafranski/kdszafranski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
