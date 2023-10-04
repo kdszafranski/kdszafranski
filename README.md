@@ -1,8 +1,12 @@
 ### Hello! 👋
 
-Some of my personal game project repos are private.. hope you understand. If you're interested in them, please email me! 
+I'm a game developer with a variety of skills and projects under my belt. I'm comfy with Unreal, Unity, C# and C++. 
 
-I've pinned the most current.
+I have an "I'll figure it out" attitude and apply it to everything in my life. I'm not afraid of new challenges and I think this attitude enables that!
+
+Some of my projects are public and pinned, some of my personal game project repos are private.. hope you understand. If you're interested in them, please email me! 
+
+
 
 <!--
 **kdszafranski/kdszafranski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
